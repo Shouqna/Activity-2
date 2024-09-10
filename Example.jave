@@ -11,7 +11,7 @@ public class SampleClass {
        }
 
        String s = "hello"; String s2 = "world";  // Multiple statements on one line
-       System.out.println(s + s2);
+       System.out.  println(s + s2);
 
        if(true) {  // Redundant if statement, hardcoded true
            System.out.println("This will always print");
