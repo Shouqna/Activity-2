@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SampleClass {
+public class SampleClasvvvs {
    public static final int MAGIC_NUMBER = 42; // Should be defined with better context or avoided
 
    // Method with issues: poor naming, missing Javadoc, magic numbers, long method
